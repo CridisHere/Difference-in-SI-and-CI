@@ -1,2 +1,2 @@
-# Difference-in-SI-and-CI
-Write a program in Python to input principal amount, rate of interest and time (in years) and compute the difference between Compound Interest and Simple Interest.
+# Difference-In-CI-and-SI <a href="https://github.com/CridisHere/Difference-in-SI-and-CI/blob/main/index.py">(index.py)</a>
+A Simple Python Program to calculate difference between Compound Interest and Simple Interest by taking Principal Amount, Rate of Interest and Time as Input
